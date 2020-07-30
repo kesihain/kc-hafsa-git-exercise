@@ -1,4 +1,4 @@
-print('git pull origin master')
-print('I dunno what to type')
 print('Say Hello!')
+print('this is a conflict')
+print('conflict number 2')
 print('Say What ?!!')
